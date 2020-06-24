@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{10B4E669-CAAD-4EF9-A11E-3EA7D9A6AC99}|Default">
+  <MonoDevelop.Ide.ItemProperties.MVC-APP PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC-APP/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="MVC-APP/Controllers/HelloController.cs" Line="31" Column="10" />
+      <File FileName="MVC-APP/Program.cs" />
+      <File FileName="MVC-APP/Views/Hello/Index.cshtml" />
+      <File FileName="MVC-APP/Controllers/AboutController.cs" />
+      <File FileName="MVC-APP/Views/Shared/_Layout.cshtml" Line="25" Column="27" />
+      <File FileName="MVC-APP/Views/_ViewStart.cshtml" />
+      <File FileName="MVC-APP/Controllers/HomeController.cs" />
+      <File FileName="MVC-APP/Controllers/PortfolioController.cs" />
+      <File FileName="MVC-APP/Views/Portfolio/Index.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC-APP" expanded="True">
+            <Node name="MVC-APP" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="About" expanded="True" />
+                <Node name="Contact" expanded="True" />
+                <Node name="Hello" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Portfolio" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
